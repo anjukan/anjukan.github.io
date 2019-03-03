@@ -24,7 +24,7 @@ github_username:  anjukan
 
 # Build settings
 markdown: kramdown
-remote_theme: taken
+remote_theme: vfalanis/taken
 plugins:
   - jekyll-feed
 
