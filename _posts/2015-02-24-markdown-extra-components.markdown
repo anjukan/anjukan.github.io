@@ -27,7 +27,7 @@ by a lot of people turning lights on, boiling kettles, and streaming Netflix, at
 <> "![alt text](/assets/images/system_demand.PNG)"
 {% endcomment %}
 <img src="/assets/images/system_demand.PNG " width="786" height="200" />
-<em>Figure 1: All Ireland System Demand for Week beginning 1st March 2019 </em> ([Eirgrid Smart Grid Dashboard](http://smartgriddashboard.eirgrid.com/#all))
+<em>Figure 1: All Ireland System Demand for Week beginning 12th March 2019 </em> ([Eirgrid Smart Grid Dashboard](http://smartgriddashboard.eirgrid.com/#all))
 
 <div style="text-align: justify">
 
