@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Anjukan Kathirgamanathan is pursuing a PhD at the Energy Institute at University College Dublin and is passionate about 
-using machine learning and data-driven techniques to make the world a more sustainable place. My research is looking at the 
+using machine learning and data-driven techniques to make the world a more sustainable place. His research is looking at the 
 use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable 
 energy penetration in the future smart electricity grid.</p>
 
