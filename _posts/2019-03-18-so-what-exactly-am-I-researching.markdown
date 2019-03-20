@@ -1,5 +1,5 @@
 ---
-title: "So what exactly do I do?"
+title: "So what exactly am I researching?"
 layout: post
 date: 2019-03-20 17:00
 image: /assets/images/markdown.jpg
