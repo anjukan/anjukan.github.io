@@ -98,7 +98,7 @@ serious hurdles to the widespread implementation of MPC. </p>
 to is it starting to be recognised in building control. Data-driven approaches to MPC where machine learning is used
 to model the building as a 'black box' and a cyber-physical system show promise in removing the expense of deriving a 
 first principles and physics based model. There are challenges with this: black-box models are often not suitable for 
-control when they are highly non-linear and quality data is required for each building to train the model. The objective of my PhD is to 
+control when they are highly non-linear and quality data is required for each building to train the model. The aim of my PhD is to 
 develop a data-driven approach to the modelling and predictive control of commercial buildings that will unlock its
 inherent energy flexibility. I hope I will develop a scalable method that can be easily applied at scale to commercial
 buildings with little or no hardware or equipment additions and do my part in enabling a more sustainable built
