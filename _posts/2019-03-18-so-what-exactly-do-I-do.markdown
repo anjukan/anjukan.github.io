@@ -41,10 +41,10 @@ associated damage. To tackle this, current norms are to turn on additional power
 demand and curtail wind production respectively. Increasingly, managing the demand as a means of balancing the system is 
 being considered as a more environmentally friendly and economic solution. Demand response is one facet of Demand Side
 Management (DSM) and is the change in power consumption of a customer to better match the demand with the supply. The customer 
-is usually incentivized or paid to do this - think about it, paying a user to reduce their consumption can be more cost-effective
+is usually incentivised or paid to do this - think about it, paying a user to reduce their consumption can be more cost-effective
 than having to turn on a power station just to meet an additional load.</p> 
 
-<p> Buildings represent 40% of final end-use energy consumption by sector [1]. So, how can buildings be more flexibile with their
+<p> Buildings represent 40% of final end-use energy consumption by sector [1]. So, how can buildings be more flexible with their
 electricity consumption? A significant portion of the building energy spend goes towards making sure us occupants are thermally
 comfortable. This is done using heating, ventilation and air conditioning (HVAC) systems. Using the thermal mass effect 
 (essentially any mass stores heat to a certain extent - so the walls, floor and air can be used as a sort of heat storage), a
@@ -55,7 +55,7 @@ night. In today's context, the heating thermostat can be turned up a notch when 
 can be turned down a notch or turned off completely when supply is scarce. Other sources of this flexibility in consumption 
 are through the use of thermal energy storage, electric batteries and use of on-site generation (such as solar PV or diesel
 generators). So we can define building energy flexibility as "the ability of a building to manage its demand and generation 
-according to local cliamte conditions, user needs and energy network grid requirements" [2]. My research focusses on commercial
+according to local climate conditions, user needs and energy network grid requirements" [2]. My research focuses on commercial
 buildings - these often feature all of the sources of flexibility mentioned above, are significant consumers of electricity 
 (a single commercial building may consume as much electricity as thousands of homes), and often feature energy management
 systems which can be used to control the building and receive signals from the grid.</p>
@@ -63,7 +63,7 @@ systems which can be used to control the building and receive signals from the g
 </div>
 
 <img src="/assets/images/House_in_Toteil_002.jpg" width="800" height="400" />
-<em>Figure 2: Traditional mud huts using Pprinciples of thermal mass </em> ([Image source](https://commons.wikimedia.org/wiki/File:House\_in\_Toteil\_002.jpg))
+<em>Figure 2: Traditional mud huts using principles of thermal mass </em> ([Image source](https://commons.wikimedia.org/wiki/File:House\_in\_Toteil\_002.jpg))
 
 <div style="text-align: justify">
 
@@ -71,7 +71,7 @@ systems which can be used to control the building and receive signals from the g
 of any kind of load shifting, we need mathematical models to model and describe the behaviour of the building (and in particular the 
 internal temperatures) to changes in heating or cooling loads (and change in power consumption). This is only half of the solution,
 you also need control strategies to actually operate and tell the building what to do. Most building control today is 
-actually quite simple, basically based off a series of "if this-do this" rules. Model Predictive Control (MPC) has attacted 
+actually quite simple, basically based off a series of "if this-do this" rules. Model Predictive Control (MPC) has attracted 
 a lot of research lately as a replacement to these traditional "rule-based control" strategies. MPC is able to take into account a 
 model of the building and use predictions of future disturbances such as weather and inputs such as the price of electricity to
 optimise the control actions of the building. For every time step of the control, an optimisation problem is formulated to minimise
@@ -81,20 +81,20 @@ future. The optimal sequence of control actions (e.g. what temperature setpoint 
 solving the optimisation problem. The control action for the first time step is applied to the building and the whole procedure is
 repeated at the next time step with the new inputs and measurements for the new time window. For this reason, MPC is also called
 receding horizon control. MPC has shown a lot of promise in intelligent control of a building to minimise energy consumption and energy 
-costs for building owners from a research perspective [2].</p>
+costs for building owners from a research perspective [3].</p>
 
-<p> However, MPC has largely been constrained to academia to date and has not made a successful transition to market in real buildings [3].
+<p> However, MPC has largely been constrained to academia to date and has not made a successful transition to market in real buildings [4].
 The problem stems from deriving the model required in MPC to describe the behaviour of the building. First of all, no one building
 is the same. Unlike in the automobile or aerospace industries, every building is constructed differently, has different
 systems and more importantly is operated differently by different occupants. This means that a model generated for one building cannot 
 be simply transferred over to another building. In such "physics-based models", there is a significant cost and effort
-required to catpure required information about the building such as materials, geometry and occupancy patterns.
+required to capture required information about the building such as materials, geometry and occupancy patterns.
 In order to guarantee a solution to the optimisation problem, the problem needs to be "convex" - this term is used in 
 mathematics to indicate that the function you are dealing with is convex - one that always curves up. With buildings 
 being highly complex and non-linear in their behaviour, the challenge of creating a suitable and accurate model are 
 serious hurdles to the widespread implementation of MPC. </p>
 
-<p> Just as AI and machine learning is revolutionising industries from transport to the hospitatility sector, so 
+<p> Just as AI and machine learning is revolutionising industries from transport to the hospitality sector, so 
 to is it starting to be recognised in building control. Data-driven approaches to MPC where machine learning is used
 to model the building as a 'black box' and a cyber-physical system show promise in removing the expense of deriving a 
 first principles and physics based model. There are challenges with this: black-box models are often not suitable for 
@@ -121,7 +121,7 @@ Flexible Buildings”. In: Energy and Buildings 155 (2017), pp. 25–34. issn: 0
 3. Serale, G.; Fiorentini, M.; Capozzoli, A.; Bernardini, D.; Bemporad, A. Model Predictive Control (MPC) 
 for Enhancing Building and HVAC System Energy Efficiency: Problem Formulation, Applications and Opportunities. 
 Energies 2018, 11, 631. 
-3. Gregor P. Henze. “Model predictive control for buildings: a quantum leap?” In: Journal of Building
+4. Gregor P. Henze. “Model predictive control for buildings: a quantum leap?” In: Journal of Building
 Performance Simulation 6.3 (2013), pp. 157–158. issn: 1940-1493. doi: 10.1080/19401493.2013.
 778519 [url](http://www.tandfonline.com/doi/abs/10.1080/19401493.2013.778519) 
 
