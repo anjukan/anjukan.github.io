@@ -54,9 +54,11 @@ changes to political, economic and social systems. </p>
 revolutionized the fishing industry". That was from Bill Drayton, founder of the Ashoka Foundation, today the world's largest
 network of leading social entrepreneurs. As Yashveer Singh of the Ashoka Foundation explained to us, the impact level 
 they target is systems change and frame change. He illustrated how this level of change entailed three key principles: </p>
-1. Change the participants of the system
-2. Change the rules of the system
-3. Change the purpose of the system 
+<ol>
+	<li>Change the participants of the system</li>
+	<li>Change the rules of the system</li>
+	<li>Change the purpose of the system</li>
+</ol>	
 
 <p> In a workshop with the Ashoka Foundation, we split into groups to consider some examples where we could apply these principles. Our group considered the problem of
 rising inequality. A direct service solution would be something like volunteering at the local homeless shelter or giving 
