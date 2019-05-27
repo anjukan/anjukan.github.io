@@ -12,7 +12,7 @@ tag:
 image: /assets/images/systems_change.jpg
 headerImage: false
 hidden: false # don't count this post in blog pagination
-description: "Systems Change, Not Climate Change"
+description: "So what is system change? My journey into understanding it..."
 category: blog
 author: anjukankathirgamanathan
 externalLink: false
