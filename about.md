@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+permalink: /about/
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
