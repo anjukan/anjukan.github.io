@@ -38,6 +38,7 @@ the world and that money is not the problem. </p>
 <div style="text-align: center">
 <img src="/assets/images/microsoft_visit_2018.JPG" width="800" height="400" />
 <em>South India Hui Participants at the Microsoft Accelerator, Bengaluru</em>
+</div>
 
 <div style="text-align: justify">
 
@@ -52,7 +53,7 @@ changes to political, economic and social systems. </p>
 <p> "Social entrepreneurs are not content to just give a fish or to teach how to fish. They will not rest until they have
 revolutionized the fishing industry". That was from Bill Drayton, founder of the Ashoka Foundation, today the world's largest
 network of leading social entrepreneurs. As Yashveer Singh of the Ashoka Foundation explained to us, the impact level 
-they target is systems change and frame change. He illustrated how this level of change entailed three key principles:
+they target is systems change and frame change. He illustrated how this level of change entailed three key principles: </p>
 1. Change the participants of the system
 2. Change the rules of the system
 3. Change the purpose of the system 
@@ -65,11 +66,15 @@ thousands. Possible solutions we thought up for implementing system and frame ch
 eliminate property ownership (both changing the rules of the system) and buddy systems (changing the participants). Ashoka
 believes that changemaking has to start young and that we should have a world where everyone is a changemaker. </p>
 
+</div>
+
 <div style="text-align: center">
 
 <img src="/assets/images/levels_of_change.jpg" width="400" height="300" />
 <br>
 <em>Levels of Change</em>
+
+</div>
 
 <div style="text-align: justify">
 
@@ -82,3 +87,7 @@ join 400 other participants in a 4-week residential full time programme learning
 then heads to Munich and finally culminates in a pitch of our project, that we have developed over the 4 weeks, in Budapest. And fittingly, one of the two coaches who will
 guide, support and mentor our particular journey group is our own amazing Shruthi Vijayakumar from the Asia New Zealand Foundation Leadership Network! I'm 
 very excited for this experience and to have a real go at systems change! </p>
+
+</div>
+
+**Image credits:** Cover, by Kris kr&uuml;g on [flickr](https://www.flickr.com/photos/kk/4195801110)
