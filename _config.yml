@@ -16,7 +16,7 @@ resume: true
 resume-local: true
 resume-url: assets/documents/cv-Anjukan.pdf
 
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://anjukan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
