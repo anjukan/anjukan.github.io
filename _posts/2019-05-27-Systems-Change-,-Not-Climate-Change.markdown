@@ -36,7 +36,7 @@ the world and that money is not the problem. </p>
 
 </div>
 <div style="text-align: center">
-<img src="/assets/images/microsoft_visit_2018.jpg" width="800" height="400" />
+<img src="/assets/images/microsoft_visit_2018.JPG" width="800" height="400" />
 <em>South India Hui Participants at the Microsoft Accelerator, Bengaluru</em>
 
 <div style="text-align: justify">
