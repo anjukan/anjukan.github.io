@@ -29,6 +29,14 @@ of the Asia New Zealand Foundation and a Rotary Young Leaders Award recipient.</
 	<li>Word Processing (Latex, Markdown)</li>
 </ul>
 
+<h2>Papers</h2>
+
+<ul>
+	<li><a href="http://www.ibpsa.org/proceedings/eSimPapers/2018/1-3-A-4.pdf">Aggregation of Energy Flexibility of Commercial Buildings</a></li>
+	<li><a href="/assets/documents/C2.pdf">Feature Assessment in Data-driven Models for unlocking
+	Building Energy Flexibility</a></li>
+</ul>
+
 <h2>Projects</h2>
 
 <ul>
