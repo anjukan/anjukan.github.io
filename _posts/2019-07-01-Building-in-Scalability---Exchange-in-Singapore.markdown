@@ -33,7 +33,7 @@ to open-access and quality building data. I have been promised building data sev
 to find datasets of real building data and this is an issue in the research community as researchers apply data-driven techniques in problems such as building 
 energy prediction, classification and clustering, often on individual case studies. However, the scalability and validity of the results if applied to a 
 large heterogenous data set is often questionable in these studies. Started by Dr Miller, the <a href="https://github.com/buds-lab/the-building-data-genome-project">
-Building Data Genome Project</a> looks to provide an open-access benchmarking dataset of non-residential builings to the research community. It currently features 
+Building Data Genome Project</a> looks to provide an open-access benchmarking dataset of non-residential buildings to the research community. It currently features 
 hourly whole building electrical meter data for one year for 507 buildings. I would like to extend this dataset to include further meter data including zonal temperature, 
 detailed HVAC meter data and weather and occupancy data. This will allow me to test the feature assessment methodology I have developed for scalability and robustness. 
 The Building Data Genome Project is open-access so anyone is welcome to add new datasets to it or use it for your own research or academic purposes. </p>
@@ -54,17 +54,17 @@ The Building Data Genome Project is open-access so anyone is welcome to add new 
 conservation, comfort, safety and satisfaction of humans. The projects that they are working on range from the SDE Learning Trail, a web application that 
 collects thermal and environmental comfort assessments from occupants to '3for2' Buildings. a project which aims to achieve material, energy and space efficiency 
 in buildings. The BUDS lab is based in SDE4, a net-zero energy building and in fact Singapore's first.
- A net-zero building is one that has zero net energy consumption, i.e. the total amount of energy used by the building on an annual basis is roughtly equal to or less
+ A net-zero building is one that has zero net energy consumption, i.e. the total amount of energy used by the building on an annual basis is roughly equal to or less
  than the amount of renewable energy created on site. Highlights of my time at BUDS included the workshop on the first day centered around "Wild Ideas". Dr Prageeth 
  Jayathissa led the session with started with a short intro to Qigong, which derives from Chinese medicine, philosophy and martial arts, and is a system of 
  coordinated movements, breathing and meditation. I also spent time in the BEARS (Berkeley Education Alliance for Research in Singapore) Centre at the CREATE 
- tower. Thank you to Samy and Sreshadhri who were great hosts!</p>
+ tower. Thank you to Samy and Sreshadhri who were great hosts at BEARS!</p>
 
 </div>
 
 <div style="text-align: center">
 
-<img src="/assets/images/Singapore_3.JPG" width="400" height="400" />
+<img src="/assets/images/Singapore_3.jpg" width="400" height="400" />
 <br>
 <em>Prageeth Jayathissa (original Sri-Lankan Kiwi at BUDS) leading a "Wild Ideas" workshop</em>
 
@@ -81,7 +81,7 @@ of 21 species of creepers, plants and flowers creating a massive vertical garden
 
 </div>
 <div style="text-align: center">
-<img src="/assets/images/Singapore_2.JPG" width="1040" height="780" />
+<img src="/assets/images/Singapore_2.jpg" width="1040" height="780" />
 <em>Oasia Hotel Downtown, Singapore</em>
 </div>
 
@@ -89,7 +89,8 @@ of 21 species of creepers, plants and flowers creating a massive vertical garden
 
 <p> This exchange was financially supported by a Universitas-21 network travel grant (both UCD and NUS (and the University of Auckland as well in fact) are part of 
 this global network of universities) and I am very grateful for this award. Although a short exchange, and having visited Singapore on short trips before (being a common 
-transit stop from New Zealand), this experience was hugely rewarding and has opened up many news avenues of collaboration and further opportunities. </p>
+transit stop from New Zealand), this experience was hugely rewarding and has opened up many news avenues of collaboration and further opportunities. The perspectives I 
+gained on scalability and how this applies to my research gave me a lot to think about and I enjoyed the chance to see the unique ways that Singapore is staying green. </p>
 
 </div>
 
