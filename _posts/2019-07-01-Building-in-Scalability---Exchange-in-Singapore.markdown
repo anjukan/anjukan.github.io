@@ -23,10 +23,10 @@ data being collected. This data includes HVAC system data, thermal comfort and i
 Given the particular challenges of the urban environment, for data-driven approaches and studies, the question arises of which features or variables are 
 the most useful and relevant to the problem at hand. Feature selection is the process in machine learning and statistics of selecting a subset of relevant 
 features for building an efficient and accurate predictive model. I had implemented this process for simulation data from a building in a conference paper that I am presenting at 
-<a href="http://buildingsimulation2019.org/">IBPSA BS2019</a> in September (which you can read <a href="/assets/documents/C2.pdf">here</a>) but I am interested in the 
-scalability of these techniques given real buildings of varying types, climates, systems and operation. To help answer this, I spent two weeks last month on research exchange at the  
- <a href="http://www.budslab.org/">Building and Urban Data Science (BUDS) lab</a> at the National University of Singapore. I was hosted by Associate 
- Professor Dr Clayton Miller who is the head of this research group. </p>
+<a href="http://buildingsimulation2019.org/">IBPSA BS2019</a> in September (which you can read <a href="/assets/documents/C2.pdf">here</a>, although I will dedicate another 
+blog to this topic) but I am interested in the scalability of these techniques given real buildings of varying types, climates, systems and operation. To help answer this, 
+I spent two weeks last month on research exchange at the <a href="http://www.budslab.org/">Building and Urban Data Science (BUDS) lab</a> at the National University of Singapore. 
+I was kindly hosted by Associate Professor Dr Clayton Miller who is the head of this research group. </p>
 
 <p> Whilst the IoT revolution is ensuring that more data is being collected, that doesn't neccessarily mean that as a researcher there is easy accessibility 
 to open-access and quality building data. I have been promised building data several times only for emails to then go unanswered. At scale, it is even harder 
@@ -58,7 +58,7 @@ in buildings. The BUDS lab is based in SDE4, a net-zero energy building and in f
  than the amount of renewable energy created on site. Highlights of my time at BUDS included the workshop on the first day centered around "Wild Ideas". Dr Prageeth 
  Jayathissa led the session with started with a short intro to Qigong, which derives from Chinese medicine, philosophy and martial arts, and is a system of 
  coordinated movements, breathing and meditation. I also spent time in the BEARS (Berkeley Education Alliance for Research in Singapore) Centre at the CREATE 
- tower. Thank you to Samy and Sreshadhri who were great hosts at BEARS!</p>
+ tower. Thank you to Samy and Seshadhri who were great hosts at BEARS!</p>
 
 </div>
 
@@ -66,7 +66,7 @@ in buildings. The BUDS lab is based in SDE4, a net-zero energy building and in f
 
 <img src="/assets/images/Singapore_3.jpg" width="400" height="400" />
 <br>
-<em>Prageeth Jayathissa (original Sri-Lankan Kiwi at BUDS) leading a "Wild Ideas" workshop</em>
+<em>Dr Prageeth Jayathissa (original Sri-Lankan Kiwi at BUDS) leading a "Wild Ideas" workshop</em>
 
 </div>
 
@@ -76,7 +76,7 @@ in buildings. The BUDS lab is based in SDE4, a net-zero energy building and in f
 the city manages to accomodate 5.6 million people on an island just larger in size than Auckland. Featuring a year around tropical climate, 
 keeping people cool dominates the energy consumption of buildings. The Oasia hotel sticks out in the Singapore skyline, its green (or should I say red) facade consisting
 of 21 species of creepers, plants and flowers creating a massive vertical garden. Sky gardens (an open-air atrium) allows cross-ventilation through the space,
- reducing the need for artificial cooling. Green roofs even made it onto public buses with a trial taking place when I was there. The "Garden on the Move" campaign is a 
+ reducing the need for artificial cooling. Green roofs even made it onto public buses with a trial taking place when I was there. Advised by NUS, the "Garden on the Move" campaign is a 
  three-month study to test whether the greenery can reduce the air-conditioning loads of the buses and hence reduce fuel consumption. </p>
 
 </div>
