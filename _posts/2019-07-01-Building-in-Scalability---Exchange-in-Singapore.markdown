@@ -1,5 +1,5 @@
 ---
-title: "Building in Scalabity - Exchange in Singapore"
+title: "Building in Scalability - Exchange in Singapore"
 layout: post
 date: 2019-06-26 11:00
 tag: 
@@ -36,7 +36,8 @@ large heterogenous data set is often questionable in these studies. Started by D
 Building Data Genome Project</a> looks to provide an open-access benchmarking dataset of non-residential buildings to the research community. It currently features 
 hourly whole building electrical meter data for one year for 507 buildings. I would like to extend this dataset to include further meter data including zonal temperature, 
 detailed HVAC meter data and weather and occupancy data. This will allow me to test the feature assessment methodology I have developed for scalability and robustness. 
-The Building Data Genome Project is open-access so anyone is welcome to add new datasets to it or use it for your own research or academic purposes. </p>
+The Building Data Genome Project is open-access so anyone is welcome to add new datasets to it or use it for your own research or academic purposes. If you'd like to 
+know more or contribute, please get in touch! </p>
 
 </div>
 
@@ -56,9 +57,9 @@ collects thermal and environmental comfort assessments from occupants to '3for2'
 in buildings. The BUDS lab is based in SDE4, a net-zero energy building and in fact Singapore's first.
  A net-zero building is one that has zero net energy consumption, i.e. the total amount of energy used by the building on an annual basis is roughly equal to or less
  than the amount of renewable energy created on site. Highlights of my time at BUDS included the workshop on the first day centered around "Wild Ideas". Dr Prageeth 
- Jayathissa led the session with started with a short intro to Qigong, which derives from Chinese medicine, philosophy and martial arts, and is a system of 
+ Jayathissa led the session which started with a short intro to Qigong, which derives from Chinese medicine, philosophy and martial arts, and is a system of 
  coordinated movements, breathing and meditation. I also spent time in the BEARS (Berkeley Education Alliance for Research in Singapore) Centre at the CREATE 
- tower. Thank you to Samy and Seshadhri who were great hosts at BEARS!</p>
+ tower, a huge research and innovation hub based at the NUS University Town. Thank you to Samy and Seshadhri who were great hosts at BEARS!</p>
 
 </div>
 
