@@ -19,12 +19,14 @@ externalLink: false
 
 <p> "In our view, climate change will determine the destiny of mankind, so it is imperative that our generation 
 makes the right choices" was the words that the Chinese Foreign Minister Wang Yi used following the G20 meeting
-in Osaka <a href="https://www.dw.com/en/g20-summit-world-leaders-agree-on-climate-deal/a-49408651">last month</a>. In this meeting, these nations (excluding the USA, which has formally withdrawn from Paris accord
+in Osaka <a href="https://www.dw.com/en/g20-summit-world-leaders-agree-on-climate-deal/a-49408651">last month</a>. In this meeting, these nations 
+(excluding the USA, which has formally withdrawn from the Paris accord
 under Trump) agreed to strengthen upon the agreements made 
 last year in Argentina towards Paris 2015 targets. The current target is limiting to a 2&deg;C rise of global mean surface temperatures compared to 
 pre-industrial age levels. The consequences of a temperature rise above this limit are post-apolyptic. Our current trends (or Business
-as Usual) show that we are going to exceed this limit around 2045 (and exceeding 1.5&deg;C around 2032). This corresponds to a greater
-than 0.5m sea level rise (with ~145 million people living within 1m of mean high water with 70% in Asia, Anthoff et al. 2016), potentially 1/3rd of species being committed to extinction, 90% coral reef bleaching, decrease in 
+as Usual) show that we are going to exceed this limit around 2045 (and exceeding 1.5&deg;C around 2032) <a href="https://croadsworldclimate.climateinteractive.org/">[1]</a>. 
+This corresponds to a greater than 0.5m sea level rise (with ~145 million people living within 1m of mean high water with 70% in Asia, Anthoff et al. 2016), 
+potentially 1/3rd of species being committed to extinction, 90% coral reef bleaching, decrease in 
 production of crops, severe reductions in fresh water supplies and further committed irreversibal warming of the earth [1]. </p>
 
 </div>
