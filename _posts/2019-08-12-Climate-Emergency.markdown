@@ -103,7 +103,8 @@ we failed to reach a deal resulting in a temperature increase of less than 2&deg
 environment without many of the political, historical, economic and social issues that accompany any discussions
 in actual climate change negotiations between nations. Our class was split in half; half used to the grim reality, half 
 purely shocked and depressed. So can we as humans manage the most impressive comeback in eternity? As I've heard many a 
-time this week and as often attributed to Lincoln, "the best way to predict the future is to create it". </p>
+time this week and as often attributed to Lincoln, "the best way to predict the future is to create it". And what we create 
+may still be in our hands. </p>
 
 </div>
 
