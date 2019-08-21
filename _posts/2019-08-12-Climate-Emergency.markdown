@@ -10,7 +10,7 @@ tag:
 image: /assets/images/climate_emergency_team_photo.JPG
 headerImage: false
 hidden: false # don't count this post in blog pagination
-description: "x."
+description: "A week dedicated to the dire urgency of climate change. Experiences from the 1st week of my Climate-KIC Journey."
 category: blog
 author: anjukankathirgamanathan
 externalLink: false
