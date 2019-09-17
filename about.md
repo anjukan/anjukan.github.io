@@ -5,6 +5,8 @@ permalink: /about/
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<div style="text-align: justify">
+
 <p>Anjukan Kathirgamanathan is pursuing a PhD at the Energy Institute at University College Dublin and is passionate about 
 using machine learning and data-driven techniques to make the world a more sustainable place. His research is looking at the 
 use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable 
@@ -13,6 +15,8 @@ energy penetration in the future smart electricity grid.</p>
 <p>Anjukan completed his BE(Hons) at the University of Auckland, New Zealand specialising in Mechanical Engineering. He is the
 president of the UCD ASHRAE Student Chapter, part of the UCD Sustainable Energy Community, a leadership network member
 of the Asia New Zealand Foundation and a Rotary Young Leaders Award recipient.</p>
+
+</div>
 
 <h2>Skills</h2>
 
@@ -40,6 +44,7 @@ of the Asia New Zealand Foundation and a Rotary Young Leaders Award recipient.</
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="/assets/documents/19TgroupCLIMATEJUSTICELEAGUE.pdf">EIT Climate-KIC Journey Project on "Climate Justice"</a></li> 
 	<li><a href="https://github.com/anjukan/PyEP_ALL_VARIABLES ">PyEP_ALL_VARIABLES</a></li>
 	<li><a href="https://github.com/anjukan/Py_Flight_Sales_Tracker">Py_Flight_Sales_Tracker</a></li>
 </ul>
