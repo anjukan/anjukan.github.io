@@ -1,7 +1,7 @@
 ---
 title: "Climate Justice and the Leap Frog"
 layout: post
-date: 2019-09-15 11:00
+date: 2019-09-19 11:00
 tag: 
 - System Change
 - Climate Change
@@ -20,11 +20,11 @@ externalLink: false
 <div style="text-align: justify">
 
 
-<p> <b>Those who contributed the least to climate change will be the most impacted by the consequences of climate change</b>. Research going back to 2011 highlighted
+<p> <strong>Those who contributed the least to climate change will be the most impacted by the consequences of climate change</strong>. Research going back to 2011 highlighted
 this (see first figure below) with scientists from Mcgill University developing the Climate Demography Vulnerability Index which takes into account how regional climate will 
 change but also local population demographic changes. High vulnerability is predicted for regions where a decline in climate conditions currently 
 supporting high population density is combined with rapid population growth (Samson et al., 2011). Highly vulnerable areas include Central and South America,
-the Middle East, Eastern and Southern Africa and parts of Asia. Contrast this with the lower figure of Figure 1 illustrating the CO<sub>2</sub> emissions per capita
+the Middle East, Eastern and Southern Africa and parts of Asia. Contrast this with the lower figure illustrating the CO<sub>2</sub> emissions per capita
 for these nations. The blue, less polluting regions in this map are the same red regions in the vulnerability map. The contrast is even more drastic 
 when considering cumulative emissions over time (second figure below) with the vulnerable regions representing just a small fraction of cumulative emissions 
 compared to North America and Europe. These vulnerable regions are made up of the poorer countries of the world who 
@@ -97,32 +97,33 @@ harder to find places in Jaffna that serve the traditional rice thali off a bana
 and Business Creation at TUM), I came across <a href="https://www.facebook.com/leafrepublic/">Leaf Republic</a>, 
 a start-up founded at the MakerSpace. They make disposable plates, made from the leaves of the wild creeper plant sourced from Asia and South America, which 
 are 100% biodegradable. Our ancestors and traditions have a lot to teach us. The traditional values of indigenous peoples such as the Māori of New 
-Zealand respect that their wellbeing is invested in the wellbeing of their environment in both spiritual and physical ways and that the wellbeing of 
+Zealand revolve around their wellbeing being invested in the wellbeing of their environment in both spiritual and physical ways and that the wellbeing of 
 one depends on the wellbeing of all. They also hold a strong sense of responsibility of intergenerational equity, with practices guided on the principle 
 of how one's action will affect the wellbeing of past and future generations. An example is the rāhui, a prohibition or setting aside of a place for a 
 specified time, for example, a fishing ground to either conserve endangered species or protect the fishing ground from overfishing. For the Maori, fishing 
 was both a practical and spiritual activity. These values and associated practices and knowledge are considered dying and are not at the fore of the 
-fight against climate change. How can we change this? Education and mindset shift. Our group wants this to be an integral part of the solution that 
-youth in the Global South can champion.</p>
+fight against climate change. How can we change this? Our group believes in the power of education and mindset shifts. We want this to be an integral 
+part of the solution that youth in the Global South can champion.</p>
 
 </div>
 <div style="text-align: center">
 <img src="/assets/images/banana_leaf_rice_jaffna.jpg" width="400" height="267" />
 <img src="/assets/images/TUM_leaf_republic.jpg" width="400" height="267" />
 <br>
-<em>Top: Traditional Rice Thali of Jaffna, Sri Lanka (Republished with permission from <a href="http://spinthewindrose.com/">Spinthewindrose</a>). Bottom: Disposable Plates Made by 
+<em>Top: Traditional Rice Thali of Jaffna, Sri Lanka (Photo used with permission from <a href="http://spinthewindrose.com/">Spinthewindrose</a>). Bottom: Disposable Plates Made by 
 Leaf Republic, originally a start-up at TUM</em>
 
 </div>
 
 <div style="text-align: justify">
 
-<p> This blog is quite long already so I will save what we found out in our user needs survey and the solution we developed for
-the next blog (or you can go <a href="/assets/documents/19TgroupCLIMATEJUSTICELEAGUE.pdf">here</a> to read our report we had to submit as part of the summer school). In the Iceberg model 
-of systems thinking, changing mental models is at the tip of the iceberg with the most leverage. Why don't we think of the Global south as sustainability champions and 
+<p> To understand our use group, we conducted a user needs survey tapping into our connections in the Global South. We were blown away with the level of interest shown and the amount 
+of responses we got within two days. There are a lot of interesting insights from the survey results and given that this blog is quite long already, I will save this and the solution 
+we eventually developed for the next blog (or you can go <a href="/assets/documents/19TgroupCLIMATEJUSTICELEAGUE.pdf">here</a> to read our report we had to submit). In the Iceberg model 
+of systems thinking, changing mental models is at the tip of the iceberg with the most leverage. So why don't we think of the Global south as sustainability champions and 
 not as 'developing nations'? Imagine how empowering this would be for youth from these countries. There is a massive opportunity for the Global South to "leap-frog" the practices 
 of the Global North that we are now acknowledging as leading to the degradation of natural environments and contributing to climate change. If this could be achieved, I think
-this would be some form of climate justice. I want to finish with a question for you, what are the values you live by in your life? </p>
+this would be some form of climate justice. To finish this blog however, I would like to finish with a question for you. What are the values you live by in your life? </p>
 
 </div>
 
