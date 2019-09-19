@@ -12,7 +12,8 @@ tag:
 image: /assets/images/Vulnerable_Countries_1024.jpg
 headerImage: false
 hidden: false # don't count this post in blog pagination
-description: "sdfsdfdsf"
+description: "Those who contributed the least to climate change will be the most impacted by the consequences of climate change. About Climate Justice and the values that 
+drove our Climate-KIC Journey project group"
 category: blog
 author: anjukankathirgamanathan
 externalLink: false
