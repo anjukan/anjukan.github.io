@@ -58,13 +58,13 @@ disempowered and the marginalised, are often forgotten and the climate discourse
 us to an ethical problem, how do we protect those vulnerable to our actions and unable to hold us accountable? </p>
 
 <p> As a participant of the <a href="https://journey.climate-kic.org/">EIT Climate-KIC Journey Summer School</a>, a core component of the summer school was applying principles 
-of systems thinking along with a group in a project of our interest. Our diverse team of four was made up of Bianca, born in the Amazon rainforest region of Brazil and currently 
+of systems thinking within a group in a project of our interest. Our diverse team of four was made up of Bianca, born in the Amazon rainforest region of Brazil and currently 
 a student in sustainable development in Utrecht, Mark, US American but with an extensive background in international development working primarily in the Global South and 
-Mathilde, born and raised in the South Pacific community of Noumea (To find out more about these incredible people, check out their bios 
+Mathilde, born and raised in the beautiful South Pacific community of Noumea (To find out more about these incredible people, check out their bios 
 <a href="/assets/documents/19TgroupCLIMATEJUSTICELEAGUE.pdf">here</a>!). We formed a team based on our core shared value of climate justice. 
 Spending three weeks of the summer school together working on our project, it was very fascinating to hear 
 about their own experiences growing up in different parts of the globe and yet how many similarities and shared values existed between us. From our 
-experience in our own regions, we have seen that there is huge motivation from youth to become changemakers and tackle climate change. Our team was lucky
+experience in our own regions, we have seen that there is huge motivation from youth to become changemakers and tackle climate change. Our team was lucky 
 to be studying in Europe and get the opportunity to participate in a programme such as the Journey. We saw it as an injustice that youth from the 
 Global South do not have this opportunity. This led us to our problem statement:
 
@@ -90,7 +90,7 @@ been the hallmark of the people and communities of the Global South but that are
 
 
 <p> Take the humble banana leaf, traditionally
-it was used to serve food in the part of Sri Lanka that I come from with the meal being eaten off the leaf (also commonly used in other parts of the world such as South India, South East
+it was used to serve and eat food off in the part of Sri Lanka that I come from (also commonly used in other parts of the world such as South India, South East
 Asia and Central America for cooking and serving purposes) and now it is generally just reserved for festive occasions. It's becoming harder and
 harder to find places in Jaffna that serve the traditional rice thali off a banana leaf. Whilst visiting the 
 <a href="https://www.unternehmertum.de/makerspace.xhtml?lang=en">MakerSpace</a> at UnternehmerTUM (Centre for Innovation 
