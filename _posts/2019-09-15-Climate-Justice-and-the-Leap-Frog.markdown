@@ -9,7 +9,7 @@ tag:
 - Education
 - Climate-KIC Journey
 - Transalpine
-image: /assets/images/systems_change.jpg
+image: /assets/images/Vulnerable_Countries_1024.jpg
 headerImage: false
 hidden: false # don't count this post in blog pagination
 description: "sdfsdfdsf"
