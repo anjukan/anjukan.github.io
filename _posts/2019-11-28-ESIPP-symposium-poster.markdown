@@ -25,13 +25,19 @@ in my actual poster with a link to this page and my website. I think posters in 
 interest. This led me to try experiment a bit and using a QR code with a link to a webpage is my first iteration. I'd love to find out if you actually used the QR feature and your thoughts on if it 
 is an effective method for posters
 
+</div>
+
 ![Poster](/assets/images/ESIPP_Symposium_2019_Kathirgamanathan_Anjukan_Poster.jpg)
 
 ---
 
+<div style="text-align: justify">
+
 This poster is based on work that I plan to submit to the [SimBuild2020 Conference](https://www.ashrae.org/conferences/topical-conferences/2020-building-performance-analysis-conference-simbuild).
 I shall upload the paper here as soon as I finish writing it! If you have any specific questions based on this poster or what I am researching, feel
 free to reach out to me through any of the channels on my home page!
+
+</div>
 
 ---
 
