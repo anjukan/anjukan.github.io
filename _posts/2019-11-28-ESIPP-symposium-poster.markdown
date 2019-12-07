@@ -22,8 +22,8 @@ externalLink: false
 
 This is my poster from the 2019 ESIPP Symposium "Investing in Our Energy Future". This is the first time that I am trying out embedding a QR code
 in my actual poster with a link to this page and my website. I think posters in academia are generally a very inefficient way of transferring knowledge and capturing peoples
-interest. This led me to try experiment a bit and using a QR code with a link to a webpage is my first iteration. I'd love to find out if you actually used the QR feature and your thoughts on if it 
-is an effective method for posters
+interest. I was partly inspired by <a href="https://www.youtube.com/watch?v=1RwJbhkCA58">this</a> video although did not commit fully to what the video recommends. This led me to try experiment a bit and using a QR code with a link to a webpage is my first iteration. I'd love to find out if you actually used the QR feature and your thoughts on if it 
+is an effective method for posters.
 
 </div>
 
@@ -33,8 +33,9 @@ is an effective method for posters
 
 <div style="text-align: justify">
 
-This poster is based on work that I plan to submit to the [SimBuild2020 Conference](https://www.ashrae.org/conferences/topical-conferences/2020-building-performance-analysis-conference-simbuild).
-I shall upload the paper here as soon as I finish writing it! If you have any specific questions based on this poster or what I am researching, feel
+This poster is based on work that I plan to submit to the 
+<a href="https://www.ashrae.org/conferences/topical-conferences/2020-building-performance-analysis-conference-simbuild">SimBuild2020 Conference</a>.
+I shall upload the paper here as soon as the paper is accepted (if it is)! If you have any specific questions based on this poster or what I am researching, feel
 free to reach out to me through any of the channels on my home page!
 
 </div>
