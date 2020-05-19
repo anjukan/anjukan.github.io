@@ -53,7 +53,7 @@ Award recipient.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://climateleadersoftomorrow.org/lk/>Climate Leaders of Tomorrow - Sri Lanka</a></li> 
+	<li><a href="http://climateleadersoftomorrow.org/lk/">Climate Leaders of Tomorrow - Sri Lanka</a></li> 
 	<li><a href="/assets/documents/19TgroupCLIMATEJUSTICELEAGUE.pdf">EIT Climate-KIC Journey Project on "Climate Justice"</a></li> 
 	<li><a href="https://github.com/anjukan/PyEP_ALL_VARIABLES ">PyEP_ALL_VARIABLES</a></li>
 	<li><a href="https://github.com/anjukan/Py_Flight_Sales_Tracker">Py_Flight_Sales_Tracker</a></li>
