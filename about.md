@@ -22,21 +22,22 @@ Award recipient.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Machine Learning (Reinforcement Learning, Feature Selection/Engineering, Classification, Regression, PCA)</li>
-	<li>Python (Pandas, NumPy, Scikit-learn, Tensorflow)</li>
+	<li>Machine Learning (Reinforcement Learning, Feature Selection/Engineering, Classification, Regression)</li>
+	<li>Python (Pandas, NumPy, Scikit-learn, Tensorflow, Pytorch)</li>
 	<li>R</li>
 	<li>MATLAB</li>
 	<li>Websites (HTML/Jekyll/Wordpress)</li>
 	<li>Git</li>
 	<li>Building Energy Simulation (E+, DesignBuilder, Simergy)</li>
-	<li>Finite Element Analysis (FEMAP with NX Nastran, ANSYS, ABAQUS)</li>
 	<li>Stress Analysis</li>
 	<li>Word Processing (Latex, Markdown)</li>
 </ul>
 
-<h2>Papers</h2>
+<h2>Publications</h2>
 
 <ul>
+	<li><a href="https://arxiv.org/abs/2006.02273">The Building Data Genome Project 2: Hourly energy meter data from the 
+	ASHRAE Great Energy Predictor III competition</a></li>
 	<li><a href="https://doi.org/10.1016/j.enbuild.2020.110027">Towards standardising market-independent indicators for quantifying energy
 	flexibility in buildings</a></li>
 	<li><a href="http://www.ibpsa.org/proceedings/eSimPapers/2018/1-3-A-4.pdf">Aggregation of Energy Flexibility of Commercial Buildings</a></li>
