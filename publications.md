@@ -27,11 +27,17 @@ permalink: /publications/
 <h2> Conference Publications</h2>
 
 <ul>
-	<li>Anjukan Kathirgamanathan, Killian Murphy, Mattia De Rosa,
+	<li><p>Anjukan Kathirgamanathan, Killian Murphy, Mattia De Rosa,
 	Eleni Mangina, Donal P. Finn, (2018) <em>Aggregation of Energy Flexibility of Commercial Buildings</em>, Proceedings of eSim 2018, the 10ᵗʰ 
 	conference of IBPSA-Canada Montréal, QC, Canada, May 9-10, 2018 <a href="http://www.ibpsa.org/proceedings/eSimPapers/2018/1-3-A-4.pdf">
-	(paper)</a></li>
-	<li>Anjukan Kathirgamanathan, Mattia De Rosa, Eleni Mangina, 
+	(paper)</a></p></li>
+	<li><p>Anjukan Kathirgamanathan, Mattia De Rosa, Eleni Mangina, 
 	Donal P. Finn, <em>Feature Assessment in Data-driven Models for unlocking Building Energy Flexibility</em>, Proceedings of IBPSA 
-	BS2019. 2-4 September, 2019, Rome, Italy.<a href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210591.pdf">(paper_</a></li>
+	BS2019. 2-4 September, 2019, Rome, Italy.<a href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210591.pdf">(paper_</a></p></li>
+</ul>
+
+<h2>Posters</h2>
+
+<ul>
+	<li><a href="/assets/images/ESIPP_Symposium_2019_Kathirgamanathan_Anjukan_Poster.jpg">Data-Predictive Control Enabling Demand Side Management in Buildings</a></li>
 </ul>

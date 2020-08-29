@@ -33,24 +33,6 @@ Award recipient.</p>
 	<li>Word Processing (Latex, Markdown)</li>
 </ul>
 
-<h2>Publications</h2>
-
-<ul>
-	<li><a href="https://arxiv.org/abs/2006.02273">The Building Data Genome Project 2: Hourly energy meter data from the 
-	ASHRAE Great Energy Predictor III competition</a></li>
-	<li><a href="https://doi.org/10.1016/j.enbuild.2020.110027">Towards standardising market-independent indicators for quantifying energy
-	flexibility in buildings</a></li>
-	<li><a href="http://www.ibpsa.org/proceedings/eSimPapers/2018/1-3-A-4.pdf">Aggregation of Energy Flexibility of Commercial Buildings</a></li>
-	<li><a href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210591.pdf">Feature Assessment in Data-driven Models for unlocking
-	Building Energy Flexibility</a></li>
-</ul>
-
-<h2>Posters</h2>
-
-<ul>
-	<li><a href="/assets/images/ESIPP_Symposium_2019_Kathirgamanathan_Anjukan_Poster.jpg">Data-Predictive Control Enabling Demand Side Management in Buildings</a></li>
-</ul>
-
 <h2>Projects</h2>
 
 <ul>
