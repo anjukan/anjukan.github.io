@@ -27,6 +27,17 @@ permalink: /publications/
 <h2> Conference Publications</h2>
 
 <ul>
+	<li><p>Anjukan Kathirgamanathan, Kacper Twardowski, Eleni Mangina, 
+	Donal P. Finn, (2020) <em>A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management 
+	through CityLearn</em>, Proceedings of RLEM'20: First Int'l Workshop on Reinforcement Learning for Energy Management in Buildings & Cities. 
+	ACM, 2020, Yokohama, Japan.<a href="https://arxiv.org/pdf/2009.10562.pdf">(paper)</a></p></li>
+	<li><p>Anjukan Kathirgamanathan, Mattia De Rosa, Eleni Mangina, 
+	Donal P. Finn, (2019) <em>Data-Driven Predictive Control for Commercial Buildings with Multiple Energy Flexibility Sources</em>, Proceedings of 2020
+	Building Performance Modeling Conference and SimBuild co-organized by ASHRAE and IBPSA-USA. 29-1 October, 2020, Chicago, USA.
+	<a href="https://www.ashrae.org/file%20library/conferences/specialty%20conferences/2020%20building%20performance/papers/d-bsc20-c002.pdf">(paper)</a></p></li>
+	<li><p>Anjukan Kathirgamanathan, Mattia De Rosa, Eleni Mangina, 
+	Donal P. Finn, (2020) <em>Towards Robustness of Data-Driven Predictive Control for Building Energy Flexibility Applications</em>, Proceedings of IBPSA 
+	BSOV2020. 21-22 September, 2020, Loughbourough, UK.<a href="">(paper)</a></p></li>
 	<li><p>Anjukan Kathirgamanathan, Mattia De Rosa, Eleni Mangina, 
 	Donal P. Finn, (2019) <em>Feature Assessment in Data-driven Models for unlocking Building Energy Flexibility</em>, Proceedings of IBPSA 
 	BS2019. 2-4 September, 2019, Rome, Italy.<a href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210591.pdf">(paper)</a></p></li>
