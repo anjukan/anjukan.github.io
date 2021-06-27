@@ -7,14 +7,9 @@ permalink: /about/
 
 <div style="text-align: justify">
 
-<p>Anjukan Kathirgamanathan is a final year PhD student at the Energy Institute of University College Dublin and is passionate about 
-using machine learning and data-driven techniques to make the world a more sustainable place. His research is looking at the 
-use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable 
-energy penetration in the future smart electricity grid.</p>
+<p>Anjukan Kathirgamanathan is a Data Scientist and Optimisation expert at GridBeyond supported by the Intertrade Ireland Innovation Boost Programme. GridBeyond works in partnership with grid operators worldwide to deliver a solution to energy challenges through technology. GridBeyond finds flexibility in energy consumption for savings, revenues and sustainability. Anjukan has completed a PhD at the Energy Institute of University College Dublin. His research looked at the use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable energy penetration in the future smart electricity grid.</p>
 
-<p>Anjukan completed his BE(Hons) at the University of Auckland, New Zealand specialising in Mechanical Engineering. He is a WEF Global
-Shaper, Clinton Global Institute University Commitment to Action maker, the president of the UCD ASHRAE Student Chapter, part of 
-the UCD Sustainable Energy Community, a leadership network member of the Asia New Zealand Foundation and a Rotary Young Leaders 
+<p>Anjukan completed his BE(Hons) at the University of Auckland, New Zealand specialising in Mechanical Engineering. He is a WEF Global Shaper, the former president of the UCD ASHRAE Student Chapter, a leadership network member of the Asia New Zealand Foundation and a Rotary Young Leaders 
 Award recipient.</p>
 
 </div>
@@ -23,11 +18,12 @@ Award recipient.</p>
 
 <ul class="skill-list">
 	<li>Machine Learning (Reinforcement Learning, Feature Selection/Engineering, Classification, Regression)</li>
-	<li>Python (Pandas, NumPy, Scikit-learn, Tensorflow, Pytorch)</li>
+	<li>Python (Pandas, NumPy, Scikit-learn, Tensorflow, Pytorch, Keras)</li>
 	<li>R</li>
 	<li>MATLAB</li>
 	<li>Websites (HTML/Jekyll/Wordpress)</li>
 	<li>Git</li>
+	<li>Azure DevOps</li>
 	<li>Building Energy Simulation (E+, DesignBuilder, Simergy)</li>
 	<li>Stress Analysis</li>
 	<li>Word Processing (Latex, Markdown)</li>
