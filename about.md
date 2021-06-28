@@ -7,10 +7,10 @@ permalink: /about/
 
 <div style="text-align: justify">
 
-<p>Anjukan Kathirgamanathan is a Data Scientist and Optimisation expert at GridBeyond supported by the Intertrade Ireland Innovation Boost Programme. GridBeyond works in partnership with grid operators worldwide to deliver a solution to energy challenges through technology. GridBeyond finds flexibility in energy consumption for savings, revenues and sustainability. Anjukan has completed a PhD at the Energy Institute of University College Dublin. His research looked at the use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable energy penetration in the future smart electricity grid.</p>
+<p>Anjukan Kathirgamanathan is a Data Scientist and Optimisation expert at GridBeyond supported by the Intertrade Ireland Innovation Boost Programme through which he is also studying for a Post Graduate Diploma in Business and Management at Queen's University Belfast. GridBeyond works in partnership with grid operators worldwide to deliver a solution to energy challenges through technology. GridBeyond finds flexibility in energy consumption for savings, revenues and sustainability. Anjukan has completed a PhD at the Energy Institute of University College Dublin. His research looked at the use of data-driven predictive control in buildings, thereby harnessing energy flexibility to allow increasing renewable energy penetration in the future smart electricity grid.</p>
 
 <p>Anjukan completed his BE(Hons) at the University of Auckland, New Zealand specialising in Mechanical Engineering. He is a WEF Global Shaper, the former president of the UCD ASHRAE Student Chapter, a leadership network member of the Asia New Zealand Foundation and a Rotary Young Leaders 
-Award recipient.</p>
+Award recipient. In his spare time, he loves to play touch rugby, read Terry Pratchett or social pyschology books or spend time doing anything active outdoors</p>
 
 </div>
 
@@ -18,6 +18,7 @@ Award recipient.</p>
 
 <ul class="skill-list">
 	<li>Machine Learning (Reinforcement Learning, Feature Selection/Engineering, Classification, Regression)</li>
+	<li>Optimisation (LP, MILP, MINLP, NLP & Pyomo, GAMS, Gurobi, COIN-OR)</li>
 	<li>Python (Pandas, NumPy, Scikit-learn, Tensorflow, Pytorch, Keras)</li>
 	<li>R</li>
 	<li>MATLAB</li>
