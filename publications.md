@@ -7,6 +7,9 @@ permalink: /publications/
 <h2> Journal Publications</h2>
 
 <ul>
+	<li><p>Anjukan Kathirgamanathan, Eleni Mangina, Donal P. Finn (2021)
+	<em>Development of a Soft Actor Critic deep reinforcement learning approach for harnessing energy flexibility in a Large Office building</em>, Energy and AI,
+	DOI: <a href="https://doi.org/10.1016/j.egyai.2021.100101">10.1016/j.egyai.2021.100101</a></p></li>
 	<li><p>Clayton Miller, Pandarasamy Arjunan, Anjukan Kathirgamanathan, Chun Fu, 
 	Jonathan Roth, June Young Park, Chris Balbach, Krishnan Gowri, Zoltan Nagy, Anthony D. Fontanini & Jeff Haberl (2020) 
 	<em>The ASHRAE Great Energy Predictor III competition: Overview and results, Science and Technology for the Built Environment</em>, 
@@ -27,6 +30,10 @@ permalink: /publications/
 <h2> Conference Publications</h2>
 
 <ul>
+	<li><p>Anjukan Kathirgamanathan, Eleni Mangina, 
+	Donal P. Finn, (2021) <em>Comparison of Data-driven Model-based and Model-free
+	Approaches for Unlocking Building Energy Flexibility</em>, Proceedings of IBPSA 
+	BS2019. 1-3 September, 2021, Brugges, Belgium.<a href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210591.pdf">(paper)</a></p></li>
 	<li><p>Anjukan Kathirgamanathan, Kacper Twardowski, Eleni Mangina, 
 	Donal P. Finn, (2020) <em>A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management 
 	through CityLearn</em>, Proceedings of RLEM'20: First Int'l Workshop on Reinforcement Learning for Energy Management in Buildings & Cities. 
