@@ -7,6 +7,9 @@ permalink: /publications/
 <h2> Journal Publications</h2>
 
 <ul>
+	<li><p>Giuseppe Pinto, Anjukan Kathirgamanathan, Eleni Mangina, Donal P. Finn, Alfonso Capozzoli (2022)
+	<em>Enhancing energy management in grid-interactive buildings: A comparison among cooperative and coordinated architectures</em>, Applied Energy,
+	DOI: <a href="https://doi.org/10.1016/j.apenergy.2021.118497">10.1016/j.apenergy.2021.118497</a></p></li>
 	<li><p>Anjukan Kathirgamanathan, Eleni Mangina, Donal P. Finn (2021)
 	<em>Development of a Soft Actor Critic deep reinforcement learning approach for harnessing energy flexibility in a Large Office building</em>, Energy and AI,
 	DOI: <a href="https://doi.org/10.1016/j.egyai.2021.100101">10.1016/j.egyai.2021.100101</a></p></li>
