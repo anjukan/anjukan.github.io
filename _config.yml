@@ -1,6 +1,6 @@
 # main text of home
 name: Anjukan Kathirgamanathan
-bio: PhD, Senior Data Scientist, Engineer, Teacher
+bio: PhD, Senior Quant and Machine Learning Engineer, Teacher
 
 # twitter summary info
 description: PhD Student at the Energy Insitute, University College Dublin, Ireland
@@ -56,7 +56,7 @@ email: k.anjukan@gmail.com
 authors:
     anjukankathirgamanathan:
         name: Anjukan Kathirgamanathan
-        bio: PhD, Senior Data Scientist, Engineer,
+        bio: PhD, Senior Quant and Machine Learning Engineer,
         external-image: false
         picture: assets/images/profile.jpg
 
